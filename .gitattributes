@@ -1,0 +1,5 @@
+* zos-working-tree-encoding=1047
+*.png binary
+*.gif binary
+*.ico binary
+*.jpg binary
